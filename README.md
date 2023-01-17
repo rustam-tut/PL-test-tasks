@@ -15,3 +15,7 @@ task3
 
 task4
 > java -jar task4.jar C:\Users\777\myPath\array.txt 
+  
+  
+  
+  ####### Performance Lab
